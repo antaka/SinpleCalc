@@ -50,5 +50,10 @@ namespace SinpleCalc
             }
             return value;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
